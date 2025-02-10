@@ -16,3 +16,6 @@ print("My full name is",firstname,lastname)
 print(school,"is a coding school")
 print(x + y)
 print("The product of",x,"and",y,"is",x*y)
+
+
+

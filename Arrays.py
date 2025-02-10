@@ -18,3 +18,5 @@ print(courses)
 #Removing an element from an array
 courses.remove("Cyber Security")
 print(courses)
+
+
